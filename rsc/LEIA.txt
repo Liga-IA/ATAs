@@ -1,0 +1,1 @@
+Quando for salvar o documento, se estiver usando a fonte ROBOTO SLAB verifica se os negritos estão o pdf, caso não estejam imprima para PDF que aoi funciona
