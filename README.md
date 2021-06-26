@@ -1,10 +1,15 @@
-# Documentos
+# DocumentosTracker
 
 ## ATAs
 
 Documentação das Reuniões.
 
 - Esiste uma pasta para cada tipo de reunião
+
+| Descrição                 | Responsável          | Data     | Arquivo    |
+| ------------------------- | -------------------- | -------- | ---------- |
+| ATA Reuniões em Aberto 01 | Rodrigo Ferraz Souza | 31/05/21 | ./ATAs/Reu |
+| ATA Reuniões em Aberto 01 | Rodrigo Ferraz Souza | 31/05/21 | ./ATAs/Reu |
 
 ## Grupos
 
