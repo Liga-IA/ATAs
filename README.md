@@ -1,5 +1,7 @@
 # Documentos Tracker
 
+> Lembre-se que os nomes de arquivo não podem conter `-` ou `_`, pois por conta de uma atualização no backend do github isso faz o server crashar...
+
 ### HTML para substituir
 
 ```
