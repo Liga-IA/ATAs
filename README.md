@@ -22,6 +22,7 @@ Documentação das Reuniões.
 | ATA Reunião Geral - Site                 | 05/06/21 | Tobias Rossi Müller                    | <a href="https://github.com/Liga-IA/Documentos/blob/main/ATAs/Reuniões%20Gerais/ATA%2B21%2006%2005%2Bda%20primeira%20reuniao%20do%20site%20assinado.pdf">Link para o arquivo</a> |
 | ATA Reunião Geral - Estrutura da LIA     | 11/06/21 | Luna dos Santos Almeida                | <a href="https://github.com/Liga-IA/Documentos/blob/main/ATAs/Reuniões%20Gerais/ATA%2B21%2006%2011%2Bassinado.pdf ">Link para o arquivo</a>                                      |
 | ATA Reunião Geral - Definição dos Cargos | 18/06/21 | Rodrigo Ferraz Souza                   | <a href="https://github.com/Liga-IA/Documentos/blob/main/ATAs/Reuniões%20Gerais/ATA%2B21%2006%2018%2BDefinicao%20de%20Cargos%20assinado.pdf ">Link para o arquivo</a>            |
+| ATA Reunião Geral - Oficialização        | 30/07/21 | Rodrigo Ferraz Souza                   | <a href="https://github.com/Liga-IA/Documentos/blob/main/ATAs/Reuniões%20Gerais/ATA%2B21%2007%2030%2BOficializacao%20assinado.pdf ">Link para o arquivo indisponível</a>         |
 
 ## Grupos
 
