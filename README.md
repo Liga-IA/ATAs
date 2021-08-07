@@ -32,7 +32,7 @@ Descrições dos Grupos e seus relatórios finais
 | ------------------------------------------------------ | -------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Descrição do Grupo RL com RNA - Hungry Geese 1         | 21/05/21 | Luna dos Santos Almeida | <a href="https://github.com/Liga-IA/Documentos/blob/main/Grupos/Descrição%20-%20Grupo%20de%20Estudos%20RF%20com%20RNA.pdf  ">Link para o arquivo</a>                                            |
 | Descrição do Grupo de Projeto TTS para Arduino com RNA | 15/06/21 | Rodrigo Ferraz Souza    | <a href="https://github.com/Liga-IA/Documentos/blob/main/Grupos/Descrição%20-%20Grupo%20de%20Projeto%20Sintese%20de%20Voz%20para%20Arduino%20com%20Redes%20Neurais.pdf">Link para o arquivo</a> |
-| Paralisação de Projeto TTS para Arduino com RNA | 07/07/21 | Rodrigo Ferraz Souza    | <a href="https://github.com/Liga-IA/Documentos/blob/main/Grupos/Paralisacao%20de%20Projeto%20STTs.pdf">Link para o arquivo</a> |
+| Paralisação de Projeto TTS para Arduino com RNA | 07/07/21 | Rodrigo Ferraz Souza    | <a href="https://github.com/Liga-IA/Documentos/blob/main/Grupos/Paralisacao%20de%20Projeto%20-%20TTS%20Arduino.pdff">Link para o arquivo</a> |
 
 ## Modelos
 
